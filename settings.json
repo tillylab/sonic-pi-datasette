@@ -1,0 +1,4 @@
+{ 
+  "default_page_size": 10,
+  "max_returned_rows": 12
+}

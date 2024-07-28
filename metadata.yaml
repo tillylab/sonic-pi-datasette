@@ -1,0 +1,8 @@
+title: "Datasette Sound Sample Experiment"
+description: "A datasette experiment in waveform visualization."
+databases:
+  sonicpi:
+    title: Sonic-Pi Database
+    tables:
+      samples:
+        title: Samples from Sonic-Pi
